@@ -1,4 +1,43 @@
 {
-  "generated_at": "2026-03-15 04:27:22",
-  "stocks": []
+  "generated_at": "2026-03-16 04:34:41",
+  "stocks": [
+    {
+      "symbol": "000612",
+      "price": 13.44,
+      "change_pct": -3.59,
+      "volume": 507954,
+      "rsi": 42.63,
+      "ma20": 14.29,
+      "last_5_days": [
+        14.35,
+        14.47,
+        14.58,
+        13.94,
+        13.44
+      ],
+      "volume_price_signal": "价跌量缩（抛压减轻）",
+      "main_force_signal": "震荡整理（方向待明）",
+      "name": "未知名称",
+      "analysis": "API错误(401)"
+    },
+    {
+      "symbol": "600550",
+      "price": 16.71,
+      "change_pct": -2.51,
+      "volume": 477789,
+      "rsi": 50.06,
+      "ma20": 17.17,
+      "last_5_days": [
+        18.78,
+        18.39,
+        17.86,
+        17.14,
+        16.71
+      ],
+      "volume_price_signal": "价跌量缩（抛压减轻）",
+      "main_force_signal": "震荡整理（方向待明）",
+      "name": "未知名称",
+      "analysis": "API错误(401)"
+    }
+  ]
 }
