@@ -1,4 +1,24 @@
 {
-  "generated_at": "2026-04-09 04:27:50",
-  "stocks": []
+  "generated_at": "2026-04-10 04:41:31",
+  "stocks": [
+    {
+      "symbol": "000612",
+      "price": 12.27,
+      "change_pct": -2.0,
+      "volume": 271445,
+      "rsi": 57.12,
+      "ma20": 12.05,
+      "last_5_days": [
+        11.38,
+        11.53,
+        12.18,
+        12.52,
+        12.27
+      ],
+      "volume_price_signal": "价跌量缩（抛压减轻）",
+      "main_force_signal": "震荡整理（方向待明）",
+      "name": "未知名称",
+      "analysis": "API错误(401)"
+    }
+  ]
 }
