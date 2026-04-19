@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-04-18 04:26:30",
+  "generated_at": "2026-04-19 04:46:59",
   "stocks": [
     {
       "symbol": "000612",
@@ -35,6 +35,25 @@
         15.7
       ],
       "volume_price_signal": "价跌量缩（抛压减轻）",
+      "main_force_signal": "震荡整理（方向待明）",
+      "name": "未知名称",
+      "analysis": "API错误(401)"
+    },
+    {
+      "symbol": "600019",
+      "price": 6.3,
+      "change_pct": -0.94,
+      "volume": 1153479,
+      "rsi": 41.1,
+      "ma20": 6.41,
+      "last_5_days": [
+        6.44,
+        6.46,
+        6.36,
+        6.36,
+        6.3
+      ],
+      "volume_price_signal": "放量下跌（主力出货或洗盘）",
       "main_force_signal": "震荡整理（方向待明）",
       "name": "未知名称",
       "analysis": "API错误(401)"
